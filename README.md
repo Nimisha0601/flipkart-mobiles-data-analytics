@@ -9,6 +9,7 @@ This project explores mobile phone offerings on Flipkart India using data analys
 - **Excel** – Data Cleaning & Merging (Data Modeling)
 - **SQL** – Data Analysis & Insight Generation
 - **Tableau Public** – Interactive Dashboard & Visualizations
+Checkout the dashboard here: https://public.tableau.com/app/profile/nimisha.pandav/viz/Flipkart_Mobiles/Dashboard1
 - **GitHub** – Project Documentation & Sharing
 
 ---
